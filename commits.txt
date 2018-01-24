@@ -1,0 +1,3 @@
+* 509715c - (41 minutes ago) agregando hero - John Arley (HEAD -> master, tag: 0.1)
+* 630e9d3 - (44 minutes ago) Agregando el header - John Arley (tag: 0.4)
+* 05bcc2e - (52 minutes ago) Inicializar el landing - John Arley (tag: 0.5)
