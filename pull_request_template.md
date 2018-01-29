@@ -1,8 +1,16 @@
-# Descripción
-¿Qué ha cambiado?
-- [ ] Frontend
-- [ ] Backend
-- [ ] Configuración del server
+<!-- Please fill out the title field according to our pull-requests conventions -->
 
-# ¿Cómo puedo probar los cambios?
-¿En qué url y forma puedo ver el update?
+### Description
+
+Fixes a bug where '...'
+
+resolves #XXXXX
+review @alguien
+
+### Checklist
+
+<!-- Mark these as checked by replacing [ ] with [x] -->
+- [ ] Easy to rollback to the previous state
+- [ ] Works fine with the old state in parallel (backward compatible)
+- [ ] It doesn't depend on other branches/PR
+- [ ] Has tests.
